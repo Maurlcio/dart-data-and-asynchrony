@@ -1,0 +1,9 @@
+name: api_integration_project
+description: dart project revolving around API integration
+version: 1.0.0
+
+environment:
+  sdk: '^3.8.0'
+
+dependencies:
+  http: ^1.5.0
