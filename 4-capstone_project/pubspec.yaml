@@ -1,0 +1,9 @@
+name: capstone_project_notes_app
+description: A notes app.
+version: 1.0.0
+
+environment:
+  sdk: '^3.8.0'
+
+dependencies:
+  http: '^1.2.0'
